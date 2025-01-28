@@ -1,0 +1,23 @@
+<Publish>
+  <ModId Value="" />
+  <DisplayName Value="Long Train Variation Asset Pack" />
+  <ShortDescription Value="This Pack adds 4 train variations, consisting of different lengths" />
+  <LongDescription>## Long Train Variation Asset Pack
+This Pack adds 4 train variations in different lengths, including a double size standard train. All variations exist for EU and NA themed train.
+
+## New Assets
+- Passenger Train (2x8 Segment) (cap. 1680)
+- Passenger Train (9 Segment) (cap. 960)
+- Passenger Train (10 Segment) (cap. 1080)
+- Passenger Train (11 Segment) (cap. 1200)
+</LongDescription>
+  <Thumbnail Value="Properties/Train.jpg" />
+  <Screenshot Value="Properties/Train.jpg" />
+  <Tag Value="Code Mod" />
+  <ForumLink Value="" />
+  <ModVersion Value="1.0.0" />
+  <GameVersion Value="1.2.*" />
+  <Dependency Id="78903" />
+  <ChangeLog>- Initial Release</ChangeLog>
+  <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
+</Publish>

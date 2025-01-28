@@ -1,0 +1,27 @@
+<Publish>
+  <ModId Value="80797" />
+  <DisplayName Value="Subway Variation Asset Pack" />
+  <ShortDescription Value="This Pack adds 6 subway variations, consisting of different lengths" />
+  <LongDescription>
+## Subway Variation Asset Pack
+This Pack adds 6 single subway train variations in different lengths.
+
+## New Assets
+- Subway Train (3 Segments) (cap. 390)
+- Subway Train (4 Segments) (cap. 540)
+- Subway Train (5 Segments) (cap. 690)
+- Subway Train (6 Segments) (cap. 840)
+- Subway Train (2x4 Segments, Vanilla) (cap. 1080)
+- Subway Train (2x5 Segments) (cap. 1380)
+- Subway Train (2x6 Segments) (cap. 1680)
+  </LongDescription>
+  <Thumbnail Value="Properties/Thumbnail.png" />
+  <Screenshot Value="Properties/Thumbnail.png" />
+  <Tag Value="Code Mod" />
+  <ForumLink Value="" />
+  <ModVersion Value="1.1.0" />
+  <GameVersion Value="1.1.*" />
+  <Dependency Id="78903" />
+  <ChangeLog>- Remove obsolete identifier from prefabs</ChangeLog>
+  <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
+</Publish>
