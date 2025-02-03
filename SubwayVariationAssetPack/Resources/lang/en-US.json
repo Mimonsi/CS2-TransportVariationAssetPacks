@@ -1,14 +1,14 @@
 {
-  "Assets.NAME[SubwayEngine01_1Car]": "Subway Train (3 Segments)",
+  "Assets.NAME[SubwayEngine01_1Car]": "Subway Train (3 Segments, cap. 390)",
   "Assets.DESCRIPTION[SubwayEngine01_1Car]": "",
-  "Assets.NAME[SubwayEngine01_2Car]": "Subway Train (4 Segments)",
+  "Assets.NAME[SubwayEngine01_2Car]": "Subway Train (4 Segments, cap. 540)",
   "Assets.DESCRIPTION[SubwayEngine01_2Car]": "",
-  "Assets.NAME[SubwayEngine01_3Car]": "Subway Train (5 Segments)",
+  "Assets.NAME[SubwayEngine01_3Car]": "Subway Train (5 Segments, cap. 690)",
   "Assets.DESCRIPTION[SubwayEngine01_3Car]": "",
-  "Assets.NAME[SubwayEngine01_4Car]": "Subway Train (6 Segments)",
+  "Assets.NAME[SubwayEngine01_4Car]": "Subway Train (6 Segments, cap. 840)",
   "Assets.DESCRIPTION[SubwayEngine01_4Car]": "",
-  "Assets.NAME[SubwayEngine01_Double_3Car]": "Subway Train (2x3 Segments)",
+  "Assets.NAME[SubwayEngine01_Double_3Car]": "Subway Train (2x3 Segments, cap. 780)",
   "Assets.DESCRIPTION[SubwayEngine01_Double_3Car]": "",
-  "Assets.NAME[SubwayEngine01_Double_4Car]": "Subway Train (2x4 Segments)",
+  "Assets.NAME[SubwayEngine01_Double_4Car]": "Subway Train (2x6 Segments, cap. 1680)",
   "Assets.DESCRIPTION[SubwayEngine01_Double_4Car]": ""
 }

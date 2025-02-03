@@ -1,8 +1,12 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="100908" />
   <DisplayName Value="Long Train Variation Asset Pack" />
   <ShortDescription Value="This Pack adds 4 train variations, consisting of different lengths" />
   <LongDescription>## Long Train Variation Asset Pack
+
+### Warning
+These trains might be too long for some stations. Please check if your trains are disappearing and use shorter trains on these routes.
+
 This Pack adds 4 train variations in different lengths, including a double size standard train. All variations exist for EU and NA themed train.
 
 ## New Assets
@@ -11,14 +15,14 @@ This Pack adds 4 train variations in different lengths, including a double size 
 - Passenger Train (10 Segment) (cap. 1080)
 - Passenger Train (11 Segment) (cap. 1200)
 </LongDescription>
-  <Thumbnail Value="Properties/Train.jpg" />
-  <Screenshot Value="Properties/Train.jpg" />
+  <Thumbnail Value="Properties/LongTrainThumbnail.png" />
+  <Screenshot Value="Properties/LongTrainThumbnail.png" />
   <Tag Value="Code Mod" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/public-transport-vehicles-asset-pack.1676529/" />
-  <ModVersion Value="1.0.0" />
+  <ModVersion Value="1.0.1" />
   <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Initial Release</ChangeLog>
+  <ChangeLog>- Add capacities to ingame display name</ChangeLog>
   <ExternalLink Type="github" Url="https://github.com/Mimonsi/CS2-TransportVariationAssetPacks" />
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/KonstantinSchwarze" />
