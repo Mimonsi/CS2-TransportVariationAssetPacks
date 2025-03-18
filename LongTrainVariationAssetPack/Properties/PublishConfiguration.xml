@@ -10,10 +10,10 @@ These trains might be too long for some stations. Please check if your trains ar
 This Pack adds 4 train variations in different lengths, including a double size standard train. All variations exist for EU and NA themed train.
 
 ## New Assets
-- Passenger Train (2x8 Segment) (cap. 1680)
-- Passenger Train (9 Segment) (cap. 960)
-- Passenger Train (10 Segment) (cap. 1080)
-- Passenger Train (11 Segment) (cap. 1200)
+- EU/NA Passenger Train (2x8 Segment) (cap. 1680)
+- EU/NA Passenger Train (9 Segment) (cap. 960)
+- EU/NA Passenger Train (10 Segment) (cap. 1080)
+- EU/NA Passenger Train (11 Segment) (cap. 1200)
 </LongDescription>
   <Thumbnail Value="Properties/LongTrainThumbnail.png" />
   <Screenshot Value="Properties/LongTrainThumbnail.png" />
@@ -26,5 +26,5 @@ This Pack adds 4 train variations in different lengths, including a double size 
   <ExternalLink Type="github" Url="https://github.com/Mimonsi/CS2-TransportVariationAssetPacks" />
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/KonstantinSchwarze" />
-  <ExternalLink Type="ko-fi" Url="https://ko-fi.com/mimonsi" />
+  <ExternalLink Type="kofi" Url="https://ko-fi.com/mimonsi" />
 </Publish>
