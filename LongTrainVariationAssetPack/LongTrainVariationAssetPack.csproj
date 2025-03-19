@@ -11,7 +11,7 @@
         <!--The file where mod information which is required for publishing mod on PDX mods are stored-->
         <PublishConfigurationPath>Properties\PublishConfiguration.xml</PublishConfigurationPath>
 
-        <AdditionalFilesDirectory>Resources</AdditionalFilesDirectory>
+        <AdditionalFilesDirectory>content</AdditionalFilesDirectory>
 
         <AssemblyVersion>1.0.1</AssemblyVersion>
 
