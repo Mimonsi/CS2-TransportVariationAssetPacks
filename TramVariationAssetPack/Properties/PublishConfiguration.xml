@@ -18,10 +18,13 @@ This Pack unlocks the Evacuation Bus, as well as length variations for trams.
   <Screenshot Value="Properties/ptv_thumbnail.png" />
   <Tag Value="Code Mod" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/public-transport-vehicles-asset-pack.1676529/" />
-  <ModVersion Value="1.1.1" />
+  <ModVersion Value="1.1.2" />
   <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Add capacities to ingame display name</ChangeLog>
+  <ChangeLog>
+- Update Localization to use built in system
+- Update to .cok file format
+  </ChangeLog>
   <ExternalLink Type="github" Url="https://github.com/Mimonsi/CS2-TransportVariationAssetPacks" />
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/KonstantinSchwarze" />
