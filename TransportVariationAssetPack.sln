@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongTrainVariationAssetPack", "LongTrainVariationAssetPack\LongTrainVariationAssetPack.csproj", "{D9370E4F-F724-4E52-8E6A-647B724C6DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossedThemeTrainVariationAssetPack", "CombinedThemeTrainVariationAssetPack\CrossedThemeTrainVariationAssetPack.csproj", "{CF1DAD90-4E60-463B-A47B-527BB5FA1583}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossedThemeTrainVariationAssetPack", "CrossedThemeTrainVariationAssetPack\CrossedThemeTrainVariationAssetPack.csproj", "{CF1DAD90-4E60-463B-A47B-527BB5FA1583}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubwayVariationAssetPack", "SubwayVariationAssetPack\SubwayVariationAssetPack.csproj", "{3F6A31A8-EB9B-4BC5-BB1B-D3777360CD30}"
 EndProject
