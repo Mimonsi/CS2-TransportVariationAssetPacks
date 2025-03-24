@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.MultipleUnitTrainFrontPrefab, Game",
-    "name": "SubwayEngine01_Double_4Car",
+    "name": "SubwayEngine01_4Car",
     "active": true,
     "components": {
         "$id": 1,
@@ -299,7 +299,6 @@
                 "m_Group": null,
                 "m_Priority": 0,
                 "m_Icon": "Media/Game/Icons/Subway.svg",
-                "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }
         ]
@@ -354,8 +353,8 @@
         "x": 0.09424937,
         "y": 0.09424937
     },
-    "m_MinMultipleUnitCount": 2,
-    "m_MaxMultipleUnitCount": 2,
+    "m_MinMultipleUnitCount": 1,
+    "m_MaxMultipleUnitCount": 1,
     "m_Carriages": {
         "$id": 21,
         "$type": "18|Game.Prefabs.MultipleUnitTrainCarriageInfo[], Game",

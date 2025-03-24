@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.MultipleUnitTrainFrontPrefab, Game",
-    "name": "SubwayEngine01_2Car",
+    "name": "SubwayEngine01_1Car",
     "active": true,
     "components": {
         "$id": 1,
@@ -299,7 +299,6 @@
                 "m_Group": null,
                 "m_Priority": 0,
                 "m_Icon": "Media/Game/Icons/Subway.svg",
-                "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }
         ]
@@ -366,8 +365,8 @@
                 "$type": "19|Game.Prefabs.MultipleUnitTrainCarriageInfo, Game",
                 "m_Carriage": $fstrref:"UnityGUID:5f209da67994f3548ae59f14ea602829",
                 "m_Direction": 2,
-                "m_MinCount": 2,
-                "m_MaxCount": 2
+                "m_MinCount": 1,
+                "m_MaxCount": 1
             }
         ]
     },
