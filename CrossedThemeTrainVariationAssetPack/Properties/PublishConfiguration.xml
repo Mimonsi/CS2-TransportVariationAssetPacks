@@ -25,8 +25,8 @@ This pack adds EU trains to NA maps, and NA trains to EU maps. If you want EU va
   <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
   <ChangeLog>
-    - Update Localization to use built in system
-    - Update to .cok file format
+- Update Localization to use built in system
+- Update to .cok file format
   </ChangeLog>
   <ExternalLink Type="github" Url="https://github.com/Mimonsi/CS2-TransportVariationAssetPacks" />
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
