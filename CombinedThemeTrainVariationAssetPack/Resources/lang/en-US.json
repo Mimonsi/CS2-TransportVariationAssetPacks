@@ -1,35 +1,34 @@
 {
   "Assets.NAME[EUforNA_TrainPassengerEngine01]": "EU Passenger Train (8 Segments, Vanilla, cap. 840)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01]": "",
+  
   "Assets.NAME[EUforNA_TrainPassengerEngine01_Double_1Car]": "EU Passenger Train (2x3 Segments, cap. 480)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_Double_1Car]": "",
+  
   "Assets.NAME[EUforNA_TrainPassengerEngine01_Double_2Car]": "EU Passenger Train (2x4 Segments, cap. 720)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_Double_2Car]": "",
+
   "Assets.NAME[EUforNA_TrainPassengerEngine01_1Car]": "EU Passenger Train (3 Segments, cap. 240)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_1Car]": "",
+
   "Assets.NAME[EUforNA_TrainPassengerEngine01_2Car]": "EU Passenger Train (4 Segments, cap. 360)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_2Car]": "",
+
   "Assets.NAME[EUforNA_TrainPassengerEngine01_3Car]": "EU Passenger Train (5 Segments, cap. 480)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_3Car]": "",
+
   "Assets.NAME[EUforNA_TrainPassengerEngine01_4Car]": "EU Passenger Train (6 Segments, cap. 600)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_4Car]": "",
+
   "Assets.NAME[EUforNA_TrainPassengerEngine01_5Car]": "EU Passenger Train (7 Segments, cap. 720)",
-  "Assets.DESCRIPTION[EUforNA_TrainPassengerEngine01_5Car]": "",
+
 
   "Assets.NAME[NAforEU_TrainPassengerEngine01]": "NA Passenger Train  (8 Segments, Vanilla, cap. 840)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_Double_1Car]": "NA Passenger Train (2x3 Segments, cap. 480)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_Double_1Car]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_Double_2Car]": "NA Passenger Train (2x4 Segments, cap. 720)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_Double_2Car]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_1Car]": "NA Passenger Train (3 Segments, cap. 240)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_1Car]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_2Car]": "NA Passenger Train (4 Segments, cap. 360)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_2Car]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_3Car]": "NA Passenger Train (5 Segments, cap. 480)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_3Car]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_4Car]": "NA Passenger Train (6 Segments, cap. 600)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_4Car]": "",
+
   "Assets.NAME[NAforEU_TrainPassengerEngine01_5Car]": "NA Passenger Train (7 Segments, cap. 720)",
-  "Assets.DESCRIPTION[NAforEU_TrainPassengerEngine01_5Car]": ""
 }
